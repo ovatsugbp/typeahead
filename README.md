@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
-  <img width=500px height=400px src="image.jpg" alt="screenshot"></a>
+  <img width=600px height=300px src="image.jpg" alt="screenshot"></a>
 </p>
 
 ### Author
